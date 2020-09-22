@@ -1,0 +1,5 @@
+stabalize killaura.selfhurt
+
+develop killaura.angle
+
+stabalize reach
