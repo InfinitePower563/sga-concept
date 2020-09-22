@@ -4,4 +4,6 @@ develop killaura.angle
 
 stabalize reach
 
+modularize dev and concept
+
 import all dev
